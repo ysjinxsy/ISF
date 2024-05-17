@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["ISF OFFICIAL LEAGUE BOT];
+const statusMessages = ["𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥 𝐈𝐒𝐅 𝐁𝐨𝐭"];
 
 
 let currentIndex = 0;
