@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥 𝐈𝐒𝐅 𝐁𝐨𝐭"];
+client.user.setActivity('Playing in ISF League⚽', { type: 'PLAYING' });
 
 
 let currentIndex = 0;
