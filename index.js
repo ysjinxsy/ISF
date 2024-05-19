@@ -36,7 +36,12 @@ app.listen(port, () => {
 });
 
 
-client.user.setActivity('Playing in ISF League⚽', { type: 'PLAYING' });
+client.user.setPresence({
+  game: {
+    name: 'Playing in ISF League',
+    type: 'PLAYING'
+  }
+});
 
 
 let currentIndex = 0;
