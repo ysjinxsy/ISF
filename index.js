@@ -35,9 +35,7 @@ app.listen(port, () => {
   console.log(`🔗 Powered By RTX`);
 });
 
-
-  client.user.setStatus("idle");
-  client.user.setActivity("Playing in ISF League", { type: "PLAYING" });
+client.user.setActivity("Playing in ISF League", { type: "PLAYING" });
 
 let currentIndex = 0;
 const channelId = '';
