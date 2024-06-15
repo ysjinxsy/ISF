@@ -35,7 +35,7 @@ app.listen(port, () => {
   console.log(`🔗 Powered By RTX`);
 });
 
-const statusMessages = ["Playing 𝗣𝗹𝗮𝘆𝗶𝗻𝗴 𝗶𝗻 𝗜𝗦𝗙 𝗟𝗲𝗮𝗴𝘂𝗲 ⚽"];
+const statusMessages = ["Working 𝗪𝗼𝗿𝗸𝗶𝗻𝗴 𝗜𝗻 𝗪𝗼𝗻𝗱𝗲𝗿."];
 
 let currentIndex = 0;
 const channelId = '';
