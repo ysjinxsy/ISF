@@ -35,7 +35,7 @@ app.listen(port, () => {
   console.log(`🔗 Powered By RTX`);
 });
 
-const statusMessages = ["Playing 𝐏𝐥𝐚𝐲𝐢𝐧𝐠 𝐔𝐅𝐒 𝐋𝐞𝐚𝐠𝐮𝐞 ⚽."];
+const statusMessages = ["Watching 𝐖𝐚𝐭𝐜𝐡𝐢𝐧𝐠 𝐋𝐞𝐚𝐠𝐮𝐞𝐬 ⚽."];
 
 let currentIndex = 0;
 const channelId = '';
