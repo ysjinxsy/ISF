@@ -115,4 +115,3 @@ GIT : https://github.com/RTX-GAMINGG/Bot-ghost-status-remover-by-RTX
  *   Code by RTX GAMING
  * **********************************************
  */
-make this so it remove status only doesnt edit
