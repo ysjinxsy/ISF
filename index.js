@@ -13,7 +13,7 @@
  * **********************************************
  */
 
-const { Client, GatewayIntentBits, ActivityType } = require('discord.js');
+const { Client, GatewayIntentBits } = require('discord.js');
 require('dotenv').config();
 const express = require('express');
 const client = new Client({
